@@ -15,12 +15,16 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-    when you want to try out new features, but don't wanna break things. It'll make things easier for you instead of polluting the main branch with unnecessary checkins which might even break 
+    when you want to try out new features, but don't wanna break things. It'll make things easier for you instead of polluting the main branch with unnecessary checkins which might even break
 
 How do the diagrams help you visualize the branch structure?
 
+    You can easily see where development took another route and where it goes back into 'main' … if so
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
+    changes of the two branches are unified and brought back into your 'main' branch so a feature is integrated and for all other to use and see
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
