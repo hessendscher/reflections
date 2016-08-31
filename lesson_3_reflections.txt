@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    You could use other VCS tools, but the tight integration of Git in GitHub makes things a lot easier when it comes to collaboration. And…nobody wants to send around files by email anymore :)
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    I'd say everything besides very obvious typos or bugs should be worked on in a branch, rather than in master directly, as a branch has one common theme and it makes it easier to work on features in your own branch rather than polluting master with checkins there and potentially breaking stuff for others. Benefit of working in master direct is it makes things a bit easier because it's only there…
